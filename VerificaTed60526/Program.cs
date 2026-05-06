@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace VerificaTed60526
+﻿namespace VerificaTed60526
 {
     internal class Program
     {
